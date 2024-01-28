@@ -8,7 +8,7 @@
 ・「おきがえ」ボタンで着せ替え画面へ。<br>
 ・クアッカワラビー画像をタップするとちょっとしたアニメーションが出てきます。(場所によって全3通り)<br>
 ・「?」ボタンで上記のような説明が出てきます。<br>
-<div style="text-align: center;">
+<div align=center>
     <img src="home.png" width="200">
 </div><br>
 
@@ -22,7 +22,7 @@
 ## 着せ替え画面 ##
 ホーム画面で「おきがえ」ボタンを押した時の遷移後の画面です！<br>
 クアッカワラビーの着せ替えと表情変更ができます。頭・目元・胸元・背中・目・口パーツがあります。真ん中のバーで部位切り替えができます。<br>
-<div style="text-align: center;">
+<div align=center>
     <img src="okigae.png" width="200">
 </div><br><br>
 
